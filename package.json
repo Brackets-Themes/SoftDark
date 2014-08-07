@@ -4,8 +4,8 @@
     "description": "A Bracket's dark theme to ease your eyes.",
     "homepage": "https://github.com/ruiafonsopereira/Soft-Dark",
     "version": "0.1.2",
-	"author": "Rui Afonso Pereira <ruiafonsopereira@gmail.com>",
-	"engines": {
+    "author": "Rui Afonso Pereira <ruiafonsopereira@gmail.com>",
+    "engines": {
         "brackets": ">=0.42.0"
     },
     "license": "MIT",
