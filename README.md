@@ -23,4 +23,4 @@ This extension requires Brackets Release 42 or newer.
 4. Click install
 
 ## License ##
-Code licensed under the [The MIT License](https://github.com/ruiafonsopereira/Soft-Dark/blob/master/LICENSE)
+Code licensed under the [The MIT License](https://github.com/ruiafonsopereira/Soft-Dark/blob/master/LICENSE).
