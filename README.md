@@ -22,5 +22,9 @@ This Brackets extension requires release 0.42 or newer.
 3. Search for "soft-dark"
 4. Click install
 
+## Troubleshooting ##
+* If things look "wierd", save all changes and hit F5.
+* [Create an issue](https://github.com/ruiafonsopereira/Soft-Dark/issues)
+
 ## License ##
 Theme under the [The MIT License](https://github.com/ruiafonsopereira/Soft-Dark/blob/master/LICENSE).
