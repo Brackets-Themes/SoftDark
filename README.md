@@ -15,11 +15,11 @@ A Bracket's dark theme to ease your eyes.
 ![js ss](https://raw.githubusercontent.com/ruiafonsopereira/Soft-Dark/master/ss_less.png?raw=true "less")
 
 ## Installation ##
-This extension requires Brackets Release 42 or newer.
+This Brackets extension requires release 0.42 or newer.
 
 1. Open Brackets
 2. Open the extension manager
-3. Search for 'soft-dark'
+3. Search for "soft-dark"
 4. Click install
 
 ## License ##
