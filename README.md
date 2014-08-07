@@ -27,4 +27,4 @@ This Brackets extension requires release 0.42 or newer.
 * [Create an issue](https://github.com/ruiafonsopereira/Soft-Dark/issues)
 
 ## License ##
-Theme under the [The MIT License](https://github.com/ruiafonsopereira/Soft-Dark/blob/master/LICENSE).
+Theme under [the MIT License](https://github.com/ruiafonsopereira/Soft-Dark/blob/master/LICENSE).
