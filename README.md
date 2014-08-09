@@ -14,6 +14,9 @@ A Bracket's dark theme to ease your eyes.
 ### .less ###
 ![js ss](https://raw.githubusercontent.com/ruiafonsopereira/Soft-Dark/master/screenshots/ss_less.png?raw=true "less")
 
+### .css ###
+![js ss](https://raw.githubusercontent.com/ruiafonsopereira/Soft-Dark/master/screenshots/ss_css.png?raw=true "css")
+
 ## Installation ##
 This Brackets extension requires release 0.42 or newer.
 
