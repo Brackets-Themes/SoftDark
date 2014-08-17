@@ -1,4 +1,4 @@
-Brackets Theme: Soft-Dark
+SoftDark
 =========
 
 A Bracket's dark theme to ease your eyes.
@@ -22,7 +22,7 @@ This Brackets extension requires release 0.42 or newer.
 
 1. Open Brackets
 2. Open the extension manager
-3. Search for "soft-dark"
+3. Search for "soft dark"
 4. Click install
 
 ## Troubleshooting ##
