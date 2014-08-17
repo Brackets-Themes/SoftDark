@@ -1,8 +1,8 @@
 {
-    "name": "soft-dark",
+    "name": "SoftDark",
     "title": "Soft Dark",
     "description": "A Bracket's dark theme to ease your eyes.",
-    "homepage": "https://github.com/ruiafonsopereira/Soft-Dark",
+    "homepage": "https://github.com/Brackets-Themes/SoftDark",
     "version": "0.2.0",
     "author": "Rui Afonso Pereira <ruiafonsopereira@gmail.com>",
     "engines": {
